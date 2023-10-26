@@ -1,5 +1,5 @@
 drop database if exists HORSE_HOUSE;
-/*
+
 CREATE DATABASE HORSE_HOUSE;
 
 USE HORSE_HOUSE;
