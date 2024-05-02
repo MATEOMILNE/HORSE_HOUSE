@@ -1,4 +1,6 @@
 drop database if exists h_h;
+//***/ edit /*
+
 
 CREATE DATABASE h_h;
 
